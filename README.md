@@ -1,1 +1,1 @@
-# University Of Kosova
+# The Universities of Kosova
