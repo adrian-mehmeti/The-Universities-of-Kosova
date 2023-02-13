@@ -1,0 +1,195 @@
+body {
+	padding-top: 100px;
+	
+}
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+/*-- LAJMET ---*/
+.gallery-title
+{
+    font-size: 36px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+.gallery-title:after {
+    
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.gallery_product{
+		margin-bottom: 30px;
+}
+.blogg{
+	position: relative;
+	padding: 75px 0 60px;
+	box-sizing: border-box;
+}
+.blog img{
+	width: 100%;
+}
+.blog-c{
+	padding: 40px 0 0;
+	font-size: 13px;
+}
+.calendar{
+	position: absolute;
+	font-size: 46px;
+	text-transform: uppercase;
+	border: 3px solid #eb1b33;
+	width: 80px;
+	text-align: center;
+	line-height: .6;
+	padding: 10px 0 5px;
+	color: #333;
+}
+.calendar span{
+	font-size: 26px;
+}
+.b-txt{
+	position: relative;
+	padding-left: 100px;
+}
+.b-txt h3{
+	font-size: 26px;
+	margin: 0 0 20px;
+	color: #737373;
+}
+.b-txt p{
+	color: #303337;
+	font-size: 17px;
+	line-height: 1.8;
+	margin: 20px 0;
+}
+.b-txt h4{
+	font-size: 20px;
+	margin: 0;
+	color: #737373;
+	font-weight: 100;
+}
+.b-txt blockquote{
+	padding: 0 10px;
+	margin: 0 0 20px;
+	font-size: 16px;
+	border-left: 3px solid #ea1b33;
+	font-weight: 100;
+	text-transform: uppercase;
+	font-family: serif;
+}
+.univers-p{
+
+	margin-top: 7%;
+
+}
+
+/* ---- UniversitetiPost ----*/
+
+.uniPost img{
+	width: 50%;
+	margin-left: 25%;
+}
+.uni-c{
+	padding: 40px 0 0;
+	font-size: 13px;
+}
+.uni-txt {
+	position: relative;
+	padding-left: 100px;
+}
+.uniLista-txt{
+	text-align: center;
+	font-weight: 24px;
+}
+.uniHeader h1{
+	text-align: center;
+	font-family: "Lato";
+	color: #414141;
+}
+/*--- LOGIN ---*/
+
+.login-form{
+	margin: 50px auto;
+}
+
+.login-form form{
+	margin-bottom: 15px;
+	background: #f7f7f7;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;
+}
+.login-form h2{
+	margin: 0 0 15px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.univers-pLogin{
+	margin-top: 15%;
+}
+/*---- Register ---*/
+.signup-form{
+	margin: 50px auto;
+}
+.signup-form form{
+	margin-bottom: 15px;
+	background: #f7f7f7;
+	box-shadow: 0px 2px 2px rgba(0,0,0,0.3);
+	padding: 30px;
+}
+.signup-form h2{
+	margin: 0 0 15px;
+	font-size: 30px;
+}
+.univers-pSignUp{
+	margin-top: 15%;
+}
+/*---- Contact ---*/
+.univers-pContact{
+	margin-top: 15%;
+}
+.contact-form{
+	margin: 50px auto;
+}
+.contact-form form{
+	margin-bottom: 15px;
+	background: #f7f7f7;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;
+} 
+.contact-form h2{
+	margin: 0 0 15px;
+	font-size: 30px;
+}
+.contact-form textarea{
+	min-height: 38px;
+	border-radius: 2px;
+	margin-bottom: 15px;
+
+}
+/*----- FOOTER -----*/
+.create-form{
+	margin: 50px auto;
+}
+
+.create-form{
+	margin-bottom: 15px;
+	background: #f7f7f7;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;
+}
+.create-form h2{
+	margin: 0 0 15px;
+	text-align: center;
+	font-size: 30px;
+}
+.footer2
+{
+	margin: 0;
+}
+
+

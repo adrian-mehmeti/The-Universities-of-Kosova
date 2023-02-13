@@ -1,0 +1,14 @@
+#show_up{
+ width: 200px;
+ height: 200px;
+ border: 1px solid #ddd;
+ display: none;
+ background-color: white;
+margin-left:40%; 
+}
+#show_up a{
+border-bottom: 1px solid #ddd;
+display: block;
+padding: 5px;
+text-decoration: none;
+}
